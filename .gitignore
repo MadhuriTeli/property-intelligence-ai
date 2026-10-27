@@ -4,5 +4,6 @@ __pycache__/
 .venv/
 node_modules/
 dist/
-data/documents.json
+data/*
+!data/documents.json
 .DS_Store
